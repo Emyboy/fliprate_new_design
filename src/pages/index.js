@@ -10,6 +10,7 @@ import VirtualPayment from '@/components/pages/home/VirtualPayment'
 import React from 'react'
 
 export default function index() {
+	return null;
 	return (
 		<>
 			<MainLayout>
